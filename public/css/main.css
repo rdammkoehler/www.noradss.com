@@ -112,6 +112,7 @@ body {
 .header {
     font-size: 2em;
     font-weight: bold;
+    text-align:center;
 }
 
 #body  {
@@ -123,7 +124,8 @@ body {
 }
 
 .body {
-
+    font-size: 0.75em;
+    margin: 1%;
 }
 
 #footer {
@@ -137,6 +139,7 @@ body {
 
 .footer {
     margin-top: 1%;
+    text-align:center;
 }
 
 
