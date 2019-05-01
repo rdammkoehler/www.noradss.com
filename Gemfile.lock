@@ -9,5 +9,8 @@ PLATFORMS
 DEPENDENCIES
   rack
 
+RUBY VERSION
+   ruby 2.6.3p62
+
 BUNDLED WITH
-   1.14.5
+   1.17.2
